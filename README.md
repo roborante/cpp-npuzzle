@@ -1,6 +1,6 @@
 Generatore e risolutore IDA*, compilato nel 2019 in Eclipse.  
 
-Utilizzato per l'embedding nelle altre versioni (attualmente compilato solo per quella Android, le altre utilizzano risolutori interpretati nel linguaggio nativo).  
+Scritto per gioco e l'embedding nelle altre versioni (attualmente utilizzato solo in quella Android, le altre hanno risolutori interpretati nel linguaggio nativo).  
 
 Testato e funzionante in ambiente Debian/Linux (2026).
 
