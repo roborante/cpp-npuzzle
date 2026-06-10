@@ -1,0 +1,14 @@
+.settings/language.settings.xml
+Release/makefile
+Release/nPuzzle_C++
+Release/nPuzzle.d
+Release/nPuzzle.o
+Release/objects.mk
+Release/puzzle8.d
+Release/puzzle8.o
+Release/puzzle15.d
+Release/puzzle15.o
+Release/sources.mk
+Release/subdir.mk
+.cproject
+.project
